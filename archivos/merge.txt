@@ -1,0 +1,1 @@
+Como la carpeta ya no está vacia se detectan cambios en el repositorio, cambios que puedo subir al repositorio web y  por lo tanto se puede hacer el commit.
